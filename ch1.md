@@ -1,5 +1,5 @@
 # Peaceful front-end development
-#Chapter 1: Introduction
+# Chapter 1: Introduction
 Welcome to peaceful front end development.
 
 This title is for those who have ever found themselves deep in the underbelly of a grimey hostile code base, where janky performance is rampant, with all sorts of side effects and dark magic makes testing take longer than a release cycle, code is buggy and hard to ship - basically your project is chaos. Likewise, if you have been tasked with a greenfield project and are worried those fields will turn to a tar pit. Than this title is for you. 
