@@ -41,6 +41,8 @@ How teams develop code in a resistanceless environment
  - git
  - perceptual difference testing
    - test dev not production, 
+ - frameworks/tools
+   - parcel.js
 
 Performance focused framework Case studies
  - take a look at frameworks out there that address some of these issues
