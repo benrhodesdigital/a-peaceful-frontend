@@ -1,10 +1,12 @@
 # a-peaceful-frontend
 
-Introduction
- Lightweight (do you really need all those dependancies)
- Performant architecture
+Introduction 
+ - Lightweight (do you really need all those dependancies)
+ - Performant architecture
 
-Why you should care
+Why you should care 
+ - problems
+ - ideal
 
 What this series aims to do
  - lightweight scaleable frontend architecture
